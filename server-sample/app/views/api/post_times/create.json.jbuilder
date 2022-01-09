@@ -1,1 +1,0 @@
-json.extract! post_time, :id, :time

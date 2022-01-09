@@ -1,1 +1,0 @@
-json.extract! time, :id, :time
