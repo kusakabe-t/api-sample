@@ -1,0 +1,1 @@
+rm -f tmp/pids/server.pid && bundle install -j4 && bundle exec rails server -b 0.0.0.0 -p 3000
