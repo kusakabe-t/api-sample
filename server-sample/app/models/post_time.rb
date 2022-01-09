@@ -1,2 +1,0 @@
-class PostTime < ApplicationRecord
-end
